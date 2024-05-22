@@ -1,6 +1,6 @@
 const profile = {
     username: 'Gamer123',
-    playTime: 120,
+    playTime: 300,
 
     changeUsername(newName) {
         this.username = newName;
