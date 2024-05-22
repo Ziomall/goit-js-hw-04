@@ -1,5 +1,5 @@
 const profile = {
-    username: 'Gamer123',
+    username: 'Jacob',
     playTime: 300,
 
     changeUsername(newName) {
